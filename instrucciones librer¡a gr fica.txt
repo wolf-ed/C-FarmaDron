@@ -1,0 +1,9 @@
+
+
+ 
+
+-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32    
+
+
+pegar en -> Configuracion -> Compilador y depurador ->Configuracion de montaje -> otras opciones de montaje
+

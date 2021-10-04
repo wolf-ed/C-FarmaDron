@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1612734236 source:c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\paciente.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"Paciente.h"
+
+1612730248 c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\paciente.h
+
+1610888029 c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\calendario.h
+	"Paciente.h"
+
+1610890109 source:c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\calendario.cpp
+	<stdio.h>
+	"calendario.h"
+
+1612752213 source:c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\gestion_farmadron.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Paciente.h"
+	"Almacen.h"
+
+1612727375 c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\almacen.h
+
+1612800984 source:c:\documents and settings\alvaro\escritorio\con correccion de errores\p5\p5\gestion_farmadron\almacen.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<winbgim.h>
+	<math.h>
+	"Paciente.h"
+	"Almacen.h"
+	<windows.h>
+
+1612752213 source:c:\documents and settings\alvaro\escritorio\prueba_5feb_codigo_alvaro_baro\codigo_p5\gestion_farmadron.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Paciente.h"
+	"Almacen.h"
+
+1612730248 c:\documents and settings\alvaro\escritorio\prueba_5feb_codigo_alvaro_baro\codigo_p5\paciente.h
+
+1612727375 c:\documents and settings\alvaro\escritorio\prueba_5feb_codigo_alvaro_baro\codigo_p5\almacen.h
+
+1612734236 source:c:\documents and settings\alvaro\escritorio\prueba_5feb_codigo_alvaro_baro\codigo_p5\paciente.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"Paciente.h"
+
+1612800984 source:c:\documents and settings\alvaro\escritorio\prueba_5feb_codigo_alvaro_baro\codigo_p5\almacen.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<winbgim.h>
+	<math.h>
+	"Paciente.h"
+	"Almacen.h"
+	<windows.h>
+
