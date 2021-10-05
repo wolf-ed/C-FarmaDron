@@ -1,9 +1,9 @@
 # Farmadron
 
 ## Table of contents
-* [Introduction](Introduction)
-* [Technologies](Technologies)
-* [Compiling](Compiling)
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
+* [Compiling](#Compiling)
 
 
 ## Introduction
