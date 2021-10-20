@@ -4,6 +4,7 @@
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
 * [Compiling](#Compiling)
+* [Examples](#Examples)
 
 
 ## Introduction
@@ -38,3 +39,12 @@ another assembly options -> paste:
 
 #### In Spanish:
 pegar en -> Configuracion -> Compilador y depurador ->Configuracion de montaje -> otras opciones de montaje:   -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 
+
+## Examples
+
+First thing when you open the program, is to press i to initialize the default data with default clients, stores and shipments. After that you can try the different funtionalities without having to introduce new data, but you can introduce new data nontheless.
+
+[0](https://user-images.githubusercontent.com/91706719/138182268-d25e23d1-5bc2-43d9-a6e2-9b5703093385.png)
+!![2](https://user-images.githubusercontent.com/91706719/138182288-68077f08-a6f3-4b3a-94c7-4e679cfecaba.png)
+![3](https://user-images.githubusercontent.com/91706719/138182309-119bb09c-3729-4557-9399-2c4886c45656.png)
+
