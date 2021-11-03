@@ -44,7 +44,13 @@ pegar en -> Configuracion -> Compilador y depurador ->Configuracion de montaje -
 
 First thing when you open the program, is to press i to initialize the default data with default clients, stores and shipments. After that you can try the different funtionalities without having to introduce new data, but you can introduce new data nontheless.
 
-[0](https://user-images.githubusercontent.com/91706719/138182268-d25e23d1-5bc2-43d9-a6e2-9b5703093385.png)
-!![2](https://user-images.githubusercontent.com/91706719/138182288-68077f08-a6f3-4b3a-94c7-4e679cfecaba.png)
+### Examples of printing Storages/Stores with clients and orders/shipments
+![0](https://user-images.githubusercontent.com/91706719/140019641-d4476781-2ddc-43fc-ba28-1f189b0e03e6.png)
+![2](https://user-images.githubusercontent.com/91706719/138182288-68077f08-a6f3-4b3a-94c7-4e679cfecaba.png)
+
+### Example of Drone's route
+![1](https://user-images.githubusercontent.com/91706719/140019658-739cdc84-73ca-4dc8-b868-3110832e16c2.png)
+
+### Example of Drone's route with data(order, distance, angle and weight) in each stretch of the way.
 ![3](https://user-images.githubusercontent.com/91706719/138182309-119bb09c-3729-4557-9399-2c4886c45656.png)
 
